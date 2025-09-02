@@ -2,18 +2,20 @@
     margin: 0.%;
     padding: 0.1%;
     color: black;
+   
 }
 
 .ingredientes{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     list-style-type: none;
+    
 }
 
 .caldo{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    list-style-type: none;
+    s
 }
 
 body{
